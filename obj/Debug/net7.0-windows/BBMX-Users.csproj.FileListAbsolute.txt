@@ -1,0 +1,16 @@
+E:\C#\BBMX-Users\bin\Debug\net7.0-windows\BBMX-Users.exe
+E:\C#\BBMX-Users\bin\Debug\net7.0-windows\BBMX-Users.deps.json
+E:\C#\BBMX-Users\bin\Debug\net7.0-windows\BBMX-Users.runtimeconfig.json
+E:\C#\BBMX-Users\bin\Debug\net7.0-windows\BBMX-Users.dll
+E:\C#\BBMX-Users\bin\Debug\net7.0-windows\BBMX-Users.pdb
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\BBMX_Users.Form1.resources
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\BBMX-Users.csproj.GenerateResource.cache
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\BBMX-Users.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\BBMX-Users.AssemblyInfoInputs.cache
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\BBMX-Users.AssemblyInfo.cs
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\BBMX-Users.csproj.CoreCompileInputs.cache
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\BBMX-Users.dll
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\refint\BBMX-Users.dll
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\BBMX-Users.pdb
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\BBMX-Users.genruntimeconfig.cache
+E:\C#\BBMX-Users\obj\Debug\net7.0-windows\ref\BBMX-Users.dll
